@@ -7,9 +7,14 @@
 
 #include "targetver.h"
 
-#include <stdio.h>
 #include <tchar.h>
+#include <cstdio>
+#include <cstring>
 
+#include <stdio.h>
+#include <stdlib.h>
+#include <windows.h>
+#include <iostream>
 
 
 // TODO: 在此处引用程序需要的其他头文件

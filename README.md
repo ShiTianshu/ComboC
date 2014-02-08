@@ -1,4 +1,4 @@
 ComboC
 ======
 
-Chinese input method whit Cinput code and chord-typing.
+Chinese input method with Cinput code and chord-typing.

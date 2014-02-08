@@ -32,5 +32,8 @@
     <ClCompile Include="ComboC.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="send_input.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
